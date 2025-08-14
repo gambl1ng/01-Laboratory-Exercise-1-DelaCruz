@@ -16,5 +16,20 @@ namespace _01_Laboratory_Exercise_1_DelaCruz
         {
             InitializeComponent();
         }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox8_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
